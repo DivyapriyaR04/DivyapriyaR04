@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divyapriya
-- 👀 I’m interested in Python,Web development,ML,UI/UX
+- 👀 I’m interested in Python ML,Web development,UI/UX
 - 🌱 I’m currently learning Full stack and Machine Learning Algorithms to boost my skills
 
 <!---
